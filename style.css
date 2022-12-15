@@ -1,0 +1,82 @@
+body {
+  font-family: Arial;
+}
+
+button{
+  min-width: 25px;
+  min-height: 25px;
+}
+
+input {
+  width: 50px;
+}
+
+h1 {
+  margin: 0;
+}
+
+.buttonWithText {
+  width: 200px;
+}
+
+.containerColumns {
+  overflow: hidden;
+}
+
+.containerColumnLeft {
+  float: left;
+}
+
+.containerColumnRight {
+  overflow: hidden;
+}
+
+.containerElements {
+  width: 400px;
+}
+
+.containerName {
+  display: inline-block;
+  width: 200px;
+  padding: 5px 5px;
+}
+
+.disabled {
+  background-color: gray;
+}
+
+.selected {
+  background-color: gold;
+}
+
+.group1 {
+  background-color: red;
+}
+
+.group2 {
+  background-color: lime;
+}
+
+.group3 {
+  background-color: deepskyblue;
+}
+
+.group4 {
+  background-color: orange;
+}
+
+.group5 {
+  background-color: mediumpurple;
+}
+
+.group6 {
+  background-color: turquoise;
+}
+
+.group7 {
+  background-color: magenta;
+}
+
+.group8 {
+  background-color: sandybrown;
+}
